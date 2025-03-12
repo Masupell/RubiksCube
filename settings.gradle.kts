@@ -21,5 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Rubix Cube"
 include(":app")
-include(":app")
  
